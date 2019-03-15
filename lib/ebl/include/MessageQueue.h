@@ -10,7 +10,7 @@
 #include "FixedMemoryPool.h"
 #include "Assertion/Assertion.h"
 
-namespace OSWrapper {
+namespace ebl {
 
 template <typename T>
 class MessageQueue {

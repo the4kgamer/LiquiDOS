@@ -3,7 +3,7 @@
 
 #include <cstddef>
 
-namespace OSWrapper {
+namespace ebl {
 
 class VariableMemoryPoolFactory;
 

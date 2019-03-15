@@ -1,7 +1,7 @@
 #ifndef OS_WRAPPER_EVENT_FLAG_FACTORY_H_INCLUDED
 #define OS_WRAPPER_EVENT_FLAG_FACTORY_H_INCLUDED
 
-namespace OSWrapper {
+namespace ebl {
 
 class EventFlag;
 

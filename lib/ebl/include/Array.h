@@ -7,7 +7,7 @@
 #endif
 #include "ContainerException.h"
 
-namespace Container {
+namespace ebl {
 
 template <typename T, std::size_t Size>
 struct Array {

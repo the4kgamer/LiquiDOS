@@ -10,7 +10,7 @@
 #include "private/Construct.h"
 #include "Assertion/Assertion.h"
 
-namespace Container {
+namespace ebl {
 
 template <typename T, std::size_t MaxSize>
 class FixedVector {

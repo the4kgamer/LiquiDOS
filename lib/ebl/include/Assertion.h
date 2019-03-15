@@ -19,7 +19,7 @@
 #endif
 
 
-namespace Assertion {
+namespace ebl {
 
 class Failure {
 public:

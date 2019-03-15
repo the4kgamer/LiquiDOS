@@ -4,7 +4,7 @@
 #include "Timeout.h"
 #include "OSWrapperError.h"
 
-namespace OSWrapper {
+namespace ebl {
 
 class MutexFactory;
 

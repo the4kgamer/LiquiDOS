@@ -1,7 +1,7 @@
 #ifndef CONTAINER_TYPE_TRAITS_H_INCLUDED
 #define CONTAINER_TYPE_TRAITS_H_INCLUDED
 
-namespace Container {
+namespace ebl {
 
 struct TrueType {};
 struct FalseType {};

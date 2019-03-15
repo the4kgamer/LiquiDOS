@@ -4,7 +4,7 @@
 #include <cstddef>
 #include "Assertion/Assertion.h"
 
-namespace Container {
+namespace ebl {
 
 template <typename T>
 class BitPattern {

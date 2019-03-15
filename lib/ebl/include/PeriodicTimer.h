@@ -1,7 +1,7 @@
 #ifndef OS_WRAPPER_PERIODIC_TIMER_H_INCLUDED
 #define OS_WRAPPER_PERIODIC_TIMER_H_INCLUDED
 
-namespace OSWrapper {
+namespace ebl {
 
 class Runnable;
 class PeriodicTimerFactory;

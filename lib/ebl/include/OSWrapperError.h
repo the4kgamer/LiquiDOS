@@ -1,7 +1,7 @@
 #ifndef OS_WRAPPER_ERROR_H_INCLUDED
 #define OS_WRAPPER_ERROR_H_INCLUDED
 
-namespace OSWrapper {
+namespace ebl {
 
 enum Error {
 	OK,

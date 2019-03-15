@@ -7,7 +7,7 @@
 #endif
 #include "Assertion/Assertion.h"
 
-namespace Container {
+namespace ebl {
 
 class IntrusiveListNode {
 private:

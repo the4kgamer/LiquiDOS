@@ -3,7 +3,7 @@
 
 #include <exception>
 
-namespace Container {
+namespace ebl {
 
 class OutOfRange : public std::exception {
 public:
